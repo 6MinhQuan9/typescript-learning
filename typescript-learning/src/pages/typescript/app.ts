@@ -12,7 +12,7 @@ const exampleCode = () => {
       return a + b;
    }
    interface Named {
-      readonly name: string;
+      outputName?: string
    }
    // Lesson 16 create first interface
 
