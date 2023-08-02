@@ -1,0 +1,24 @@
+{
+  "name": "understanding-typescript",
+  "version": "1.0.0",
+  "description": "Understanding TypeScript Course Setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "course"
+  ],
+  "author": "Maximilian Schwarzmüller",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2"
+  }
+}
